@@ -1,6 +1,6 @@
-### <!--Hi there 👋
+### 
 
-
+<!--
 **Rav3nf0/Rav3nf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! I'm Aadarsh aka Rav3nf0, Glad to meet you!👋
+**Hey there!** I'm Aadarsh aka Rav3nf0, Glad to meet you!👋
   
